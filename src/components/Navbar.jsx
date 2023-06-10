@@ -21,7 +21,7 @@ const Navbar = (props) => {
     <>
       <nav class="navbar navbar-light bg-light">
         <div class="container-fluid" style={{textAlign:'center'}}>
-          <a href="..." class="navbar-brand">Navbar</a>
+          <a href="..." class="navbar-brand">Home</a>
           <b id="name">WeatherSense</b>
           <div class="d-flex">
             

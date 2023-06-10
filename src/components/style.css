@@ -356,3 +356,8 @@ footer{
     border-radius: 5px;
     border-color: rgb(226, 239, 239);
   }
+  footer{
+    background-color: rgb(249, 244, 244);
+    font-size: 1.2em;
+    font-weight: 500;
+  }

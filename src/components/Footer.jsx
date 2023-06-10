@@ -4,7 +4,9 @@ const Footer = () => {
   return (
     <>
     <footer>
-        Created By Dipansu Rout
+        <div>
+          Created and maintained by Dipansu Rout
+        </div>
     </footer>
     </>
   )
