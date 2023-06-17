@@ -175,7 +175,7 @@ const Body = (props) => {
                   </div>
                   <div id="title2">{data2[inx1].title}</div>
                   <div id="desc2">
-                    {data2[inx1].description.split(" ").slice(0, 30).join(" ")}
+                    {data2[inx1].description?.split(" ").slice(0, 30).join(" ")}
                     ...
                   </div>
                 </div>
